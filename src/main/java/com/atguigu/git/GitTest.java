@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hello git!");
         System.out.println("这是版本修改后的内容！");
         System.out.println("在hot-fix中修改分支中的内容！");
+        System.out.println("在hot-fix中修改分支中的内容再次修改！");
     }
 }
